@@ -1,3 +1,5 @@
+# Decision Tree  
+*it is the exercise for Udacity Data Science course*  
  you'll be given the following sample dataset, and your goal is to define a model that gives 100% accuracy on it.
 
  The data file can be found under the "data.csv" tab in the quiz below. It includes three columns, the first 2 comprising of the coordinates of the points, and the third one of the label.
